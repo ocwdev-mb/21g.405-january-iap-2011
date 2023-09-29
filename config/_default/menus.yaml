@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 4a1e237f-e7dd-4176-510f-bb898d20d452
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 56e8822e-e921-7eab-a81f-2c5b50054295
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: b054ae99-426b-5446-a9c5-e144d5365196
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: 395761a8-abc4-3fe1-3e6f-805b64857810
+  name: Related Resources
+  pageRef: /pages/related-resources/
+  weight: 40
+- identifier: 8d75392b-7425-a350-9451-3a4d21557201
+  name: Radio / Fernsehen
+  pageRef: /pages/related-resources/radio-fernsehen
+  parent: 395761a8-abc4-3fe1-3e6f-805b64857810
+  weight: 50
+- identifier: f297b3bc-d4fb-481a-af02-3be83299ab14
+  name: Podcasts
+  pageRef: /pages/related-resources/podcasts
+  parent: 395761a8-abc4-3fe1-3e6f-805b64857810
+  weight: 60
+- identifier: 4befb844-dc16-7949-5d06-4f6d2f65b629
+  name: Zeitungen/Zeitschriften
+  pageRef: /pages/related-resources/zeitungen-zeitschriften
+  parent: 395761a8-abc4-3fe1-3e6f-805b64857810
+  weight: 70
+- identifier: 85699028-ee75-0051-3edc-904cb0021a1b
+  name: Themen
+  pageRef: /pages/related-resources/themen
+  parent: 395761a8-abc4-3fe1-3e6f-805b64857810
+  weight: 80
